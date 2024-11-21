@@ -1,0 +1,16 @@
+.conteiner {
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+    width: 90px;
+    padding: 15px;
+    border: 1px solid #a1a1a1;
+    border-radius: 5px;
+}

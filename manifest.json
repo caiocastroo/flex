@@ -1,0 +1,13 @@
+{
+    "name": "Real",
+    "start_url": "/real",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
